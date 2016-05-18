@@ -4,5 +4,6 @@
 * Head first desgin pattern
 * Head first Java
 
-####参考视频：
-Design Patterns Video Tutorial:<https://www.youtube.com/playlist?list=PLF206E906175C7E07> 
+####参考视频和代码：
+* Design Patterns Video Tutorial: <https://www.youtube.com/playlist?list=PLF206E906175C7E07> 
+* Python代码: http://www.pythontip.com/pythonPatterns/
